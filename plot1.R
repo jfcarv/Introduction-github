@@ -1,4 +1,4 @@
-#Loading packages
+#Plot1.JCA
 install.packages("ggplot2")
 library("ggplot2")
 
